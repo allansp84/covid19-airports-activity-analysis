@@ -1,0 +1,3 @@
+[submodule "BreakoutDetection"]
+	path = BreakoutDetection
+	url = https://github.com/allansp84/BreakoutDetection.git
